@@ -1,0 +1,34 @@
+<style type="text/css">
+		.container {
+			background-color: blue;
+		}
+		button {
+			margin: 3px;
+			color: white;
+			background-color: #0074D9;
+		}
+		/*div {
+			background-color: lightgray;
+		}*/
+		#gifdiv {
+			float: left;
+		}
+		#indgifdiv {
+			display: inline-block;
+			margin: 5px;
+		}
+		#searchdiv {
+			float: right;
+			display: block;
+		}
+		#searchbox {
+			width: 90%;
+		}
+		img {
+			margin: 4px;
+		}
+		#submitbtn {
+			color: white;
+			background-color: #0074D9;
+		}
+	</style>
